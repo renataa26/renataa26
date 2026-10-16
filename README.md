@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student<br>I'm currently learning HTML, C++ AND PHP.<br>I would like to collaborate on building a website for my study materials<br>How to contact me: taabellonana@gmail.com<br>Pronoun: She/her<br>Fun fact: I like to code in the middle of the night
+I'm currently a student<br>I'm currently learning HTML, C++ and PHP.<br>I would like to collaborate on building a website for my study materials<br>How to contact me: taabellonana@gmail.com<br>Pronoun: She/her<br>Fun fact: I like to code in the middle of the night
 
 
 ## 🌐 Socials:
